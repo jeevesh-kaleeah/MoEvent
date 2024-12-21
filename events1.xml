@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="events1.xsd">
+    <event id="0">
+        <name>avengers endgame</name>
+        <type>cinema</type>
+        <price>50</price>
+        <genre>marvel</genre>
+        <date>2024-10-01</date>
+        <time>19:00</time>
+        <info>
+            <duration>1hr</duration>
+            <location>bagatelle</location>
+            <description>comedy movie about 3idiots trying to complete their engineering degree</description>
+        </info>
+        <image cardImage="endgame.jpg" backgroundImage="endgameposter.jpg" />
+    </event>
+    <event id="1">
+        <name>barbie</name>
+        <type>cinema</type>
+        <price>30</price>
+        <genre>melodrama</genre>
+        <date>2024-10-05</date>
+        <time>17:00</time>
+        <info>
+            <duration>1hr</duration>
+            <location>bagatelle</location>
+            <description>comedy movie about 3idiots trying to complete their engineering degree</description>
+        </info>
+        <image cardImage="Barbie.jpg" backgroundImage="Slide1.jpg" />
+    </event>
+    <event id="2">
+        <name>avatar</name>
+        <type>cinema</type>
+        <price>30</price>
+        <genre>science fiction</genre>
+        <date>2024-10-05</date>
+        <time>17:00</time>
+        <info>
+            <duration>1hr</duration>
+            <location>bagatelle</location>
+            <description>comedy movie about 3idiots trying to complete their engineering degree</description>
+        </info>
+        <image cardImage="avatar.jpg" backgroundImage="avatarposter.jpg" />
+    </event>
+    <event id="3">
+        <name>jurassic</name>
+        <type>cinema</type>
+        <price>30</price>
+        <genre>adventure</genre>
+        <date>2024-10-05</date>
+        <time>17:00</time>
+        <info>
+            <duration>1hr</duration>
+            <location>bagatelle</location>
+            <description>comedy movie about 3idiots trying to complete their engineering degree</description>
+        </info>
+        <image cardImage="jurassic.jpg" backgroundImage="jurassicposter.jpg" />
+    </event>
+    <event id="8">
+        <name>lionking</name>
+        <type>cinema</type>
+        <price>30</price>
+        <genre>emotional</genre>
+        <date>2024-10-05</date>
+        <time>17:00</time>
+        <info>
+            <duration>1hr</duration>
+            <location>bagatelle</location>
+            <description>comedy movie about 3idiots trying to complete their engineering degree</description>
+        </info>
+        <image cardImage="lionking.jpg" backgroundImage="lionkingposter.jpg" />
+    </event>
+    <!-- Add more events -->
+</events>

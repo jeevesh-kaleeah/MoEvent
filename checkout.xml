@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="checkout.xsl"?>
+<checkoutList>
+    <checkout>
+        <name>John Doe</name>
+        <email>john.doe@example.com</email>
+        <type>concert</type>
+        <events>Rock Night</events>
+        <quantity>2</quantity>
+        <price>100.00</price>
+        <paymentMethod>Credit Card</paymentMethod>
+    </checkout>
+    <checkout>
+        <name>Jane Smith</name>
+        <email>jane.smith@example.com</email>
+        <type>cinema</type>
+        <events>Movie Premiere</events>
+        <quantity>3</quantity>
+        <price>45.00</price>
+        <paymentMethod>PayPal</paymentMethod>
+    </checkout>
+    <checkout>
+        <name>Mike Johnson</name>
+        <email>mike.johnson@example.com</email>
+        <type>theatre</type>
+        <events>Drama Play</events>
+        <quantity>1</quantity>
+        <price>25.00</price>
+        <paymentMethod>Debit Card</paymentMethod>
+    </checkout>
+    <checkout>
+        <name>Alice Brown</name>
+        <email>alice.brown@example.com</email>
+        <type>concert</type>
+        <events>Jazz Festival</events>
+        <quantity>4</quantity>
+        <price>120.00</price>
+        <paymentMethod>Credit Card</paymentMethod>
+    </checkout>
+    <checkout>
+        <name>Chris Green</name>
+        <email>chris.green@example.com</email>
+        <type>cinema</type>
+        <events>Action Movie</events>
+        <quantity>2</quantity>
+        <price>50.00</price>
+        <paymentMethod>Bank Transfer</paymentMethod>
+    </checkout>
+    <checkout>
+        <name>Emma White</name>
+        <email>emma.white@example.com</email>
+        <type>theatre</type>
+        <events>Comedy Night</events>
+        <quantity>3</quantity>
+        <price>30.00</price>
+        <paymentMethod>Debit Card</paymentMethod>
+    </checkout>
+    <checkout>
+        <name>Tom Black</name>
+        <email>tom.black@example.com</email>
+        <type>concert</type>
+        <events>Pop Concert</events>
+        <quantity>1</quantity>
+        <price>85.00</price>
+        <paymentMethod>Credit Card</paymentMethod>
+    </checkout>
+    <checkout>
+        <name>Olivia Blue</name>
+        <email>olivia.blue@example.com</email>
+        <type>cinema</type>
+        <events>Romantic Comedy</events>
+        <quantity>5</quantity>
+        <price>35.00</price>
+        <paymentMethod>PayPal</paymentMethod>
+    </checkout>
+    <checkout>
+        <name>Liam Gray</name>
+        <email>liam.gray@example.com</email>
+        <type>theatre</type>
+        <events>Musical Night</events>
+        <quantity>2</quantity>
+        <price>60.00</price>
+        <paymentMethod>Debit Card</paymentMethod>
+    </checkout>
+</checkoutList>
+

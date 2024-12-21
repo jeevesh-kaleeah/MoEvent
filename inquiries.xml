@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="inquiries.xsl"?>
+<inquiries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="inquiries.xsd">
+  <inquiry>
+    <name>john</name>
+    <phone>59999999</phone>
+    <email>john@gmail.com</email>
+    <message>waaaa</message>
+  </inquiry>
+  <inquiry>
+    <name>john</name>
+    <phone>59868374</phone>
+    <email>jhonny@gmail.com</email>
+    <message>hello i am under the water</message>
+  </inquiry>
+  <inquiry>
+    <name>pasta</name>
+    <phone>56363636</phone>
+    <email>pasta@gmail.com</email>
+    <message>i am joking</message>
+  </inquiry>
+  <inquiry>
+    <name>mr white</name>
+    <phone>57863214</phone>
+    <email>walt@gmail.com</email>
+    <message>jessie we need to cook</message>
+  </inquiry>
+  <inquiry>
+    <name>test</name>
+    <phone>54213232</phone>
+    <email>test@gmail.com</email>
+    <message>im pickle rick</message>
+  </inquiry>
+  <inquiry>
+    <name>test</name>
+    <phone>59999999</phone>
+    <email>test@gmail.com</email>
+    <message>testing</message>
+  </inquiry>
+  <inquiry>
+    <name>test one</name>
+    <phone>59999999</phone>
+    <email>test1@gmail.com</email>
+    <message>testing</message>
+  </inquiry>
+  <inquiry>
+    <name>david blane</name>
+    <phone>54213268</phone>
+    <email>test@gmail.com</email>
+    <message>this is some very important text</message>
+  </inquiry>
+  <inquiry>
+    <name>test</name>
+    <phone>59999998</phone>
+    <email>test@gmail.com</email>
+    <message>testing12</message>
+  </inquiry>
+  <inquiry>
+    <name>test</name>
+    <phone>59999999</phone>
+    <email>test@gmail.com</email>
+    <message>testing</message>
+  </inquiry>
+  <inquiry>
+    <name>jeevesh</name>
+    <phone>59999999</phone>
+    <email>test@gmail.com</email>
+    <message>testing</message>
+  </inquiry>
+</inquiries>

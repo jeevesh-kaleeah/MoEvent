@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<events xsi:noNamespaceSchemaLocation="events.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cinema>
+    <event id="1">
+    <name>The Lion King</name>
+    <genre>Adventure, Musical</genre>
+    <location>Ebene Recreational Park</location>
+    <duration>2h 50min</duration>
+    <date>2024-10-01</date>
+    <time>18:00:00</time>
+    <cardImage>images/lionking.jpg</cardImage>
+    <backgroundImage>lk.jpg</backgroundImage>
+    <description>&quot;The Lion King&quot; is about Simba, who faces challenges after his uncle Scar betrays him and he has to reclaim his throne with the help of new friends.</description>
+    <price currency="MUR">200</price>
+    
+    </event>
+    
+    <event id="2">
+    <name>Barbie</name>
+    <genre>Adventure, Comedy, Fantasy, Romance</genre>
+    <location>Domaine de Labourdonnais</location>
+    <duration>1h 54min</duration>
+    <date>2024-10-15</date>
+    <time>18:00:00</time>
+    <cardImage>images/Barbie.jpg</cardImage>
+    <backgroundImage>Slide1.jpg</backgroundImage>
+    <description>Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.</description>
+    <price currency="MUR">200</price>
+    
+    </event>
+    
+    <event id="3">
+    <name>Avatar</name>
+    <genre>Action, Adventure, Fantasy, Sci-Fi</genre>
+    <location>Ebene Recreational Park</location>
+    <duration>3h 12min</duration>
+    <date>2024-09-29</date>
+    <time>18:00:00</time>
+    <cardImage>images/Avatarposter.jpg</cardImage>
+    <backgroundImage>Avatarposter.jpg</backgroundImage>
+    <description>The films follow a U.S. Marine named Jake Sully (Sam Worthington) who becomes part of a program in which human colonizers explore and exploit an alien world called Pandora. The humans interact with a humanoid species called the Na'vi by inhabiting genetically engineered “avatar” bodies that resemble those of the Na'vi.</description>
+    <price currency="MUR">400</price>
+    
+    </event>
+    
+    <event id="4">
+    <name>Jurassic World</name>
+    <genre>Action, Adventure, Sci-Fi, Thriller</genre>
+    <location>4D Cinema, Tribecca Mall</location>
+    <duration>2h 4min</duration>
+    <date>2024-11-01</date>
+    <time>20:00:00</time>
+    <cardImage>images/Jurassic-world.jpg</cardImage>
+    <backgroundImage>jurassicposter.jpg</backgroundImage>
+    <description>Located off the coast of Costa Rica, the Jurassic World luxury resort provides a habitat for an array of genetically engineered dinosaurs, including the vicious and intelligent Indominus rex. When the massive creature escapes, it sets off a chain reaction that causes the other dinos to run amok. Now, it's up to a former military man and animal expert (Chris Pratt) to use his special skills to save two young brothers and the rest of the tourists from an all-out, prehistoric assault.</description>
+    <price currency="MUR">300</price>
+    
+    </event>
+    
+    <event id="5">
+    <name>3 Idiots</name>
+    <genre>Comedy, Thriller</genre>
+    <location>Telfair, Moka</location>
+    <duration>2h 50min</duration>
+    <date>2024-09-12</date>
+    <time>19:00:00</time>
+    <cardImage>images/3idiots.jpg</cardImage>
+    <backgroundImage>Slide3.jpg</backgroundImage>
+    <description>In college, Farhan and Raju form a great bond with Rancho due to his positive and refreshing outlook to life. Years later, a bet gives them a chance to look for their long-lost friend whose existence seems rather elusive.</description>
+    <price currency="MUR">250</price>
+    
+    </event>
+    
+    <event id="6">
+    <name>Avengers Endgame</name>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <location>Tribecca Mall</location>
+    <duration>2h 49min</duration>
+    <date>2024-10-29</date>
+    <time>21:00:00</time>
+    <cardImage>images/endgame.jpg</cardImage>
+    <backgroundImage>endgameposter.jpg</backgroundImage>
+    <description>Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.</description>
+    <price currency="MUR">350</price>
+    
+    </event>
+  </cinema>
+  
+  <concerts>
+    <event id="1">
+    <name>Coldplay</name>
+    <location>Cote D'Or Sports Complex</location>
+    <date>2024-12-25</date>
+    <time>18:00:00</time>
+    <cardImage>images/coldplay.jpg</cardImage>
+    <backgroundImage>coldplayposter.jpg</backgroundImage>
+    <description>Experience Coldplay Live On Christmas: Unforgettable Moments Await! Join us for an evening of pure enchantment, as Coldplay brings their iconic sound to life in a way that only they can. Don't miss out on this once-in-a-lifetime event that promises to be a memory you'll cherish forever.</description>
+    <price currency="MUR">2000</price>
+    
+    </event>
+    
+    <event id="2">
+    <name>Arijit Singh</name>
+    <location>Athletics Field, Cote DÓr</location>
+    <date>2024-11-20</date>
+    <time>17:00:00</time>
+    <cardImage>images/arijit.jpg</cardImage>
+    <backgroundImage>arijit.jpg</backgroundImage>
+    <description>Get ready to be swept off your feet by the enchanting melodies of Arijit Singh as he graces the shores of Mauritius for a night of pure musical magic! Join us for a soul-stirring concert that promises to be an experience of a lifetime.
+    Arijit Singh, the voice behind countless chart-topping hits and heart-touching ballads, is set to captivate audiences with his mesmerizing vocals and emotional renditions. From soulful classics to chart-topping hits, his performance will take you on a journey through a spectrum of emotions, leaving you spellbound and moved.
+    Whether you're a die-hard fan of Arijit Singh or simply appreciate good music, this concert promises something special for everyone. Gather your loved ones, friends, and fellow music enthusiasts to share in the joy of music that transcends language and culture.
+    As you immerse yourself in Arijit Singh's soulful melodies under the open sky, you'll find yourself carried away by the sheer magic of the moment. Sing along to your favorite songs, let the music touch your heart, and create memories that will linger long after the final note fades.
+    This is not just a concert; it's an experience, a memory, a chance to be a part of something truly remarkable. So mark your calendars, secure your tickets, and get ready to witness Arijit Singh's musical brilliance come alive against the backdrop of the breathtaking beauty of Mauritius. Don't miss out on this once-in-a-lifetime opportunity to be a part of history in the making.</description>
+    <price currency="MUR">2000</price>
+    
+    </event>
+    
+    <event id="3">
+    <name>Vini Vici</name>
+    <location>Tamassa Hotel, Bel Ombre</location>
+    <date>2024-12-31</date>
+    <time>19:00:00</time>
+    <cardImage>images/vinivici.jpg</cardImage>
+    <backgroundImage>vinivici.jpg</backgroundImage>
+    <description>Get ready to kick off the new year in the most electrifying way possible – with the Vini Vici Concert at the stunning Tamassa Hotel! Immerse yourself in a night of pulsating beats, exhilarating music, and an atmosphere that's charged with excitement</description>
+    <price currency="MUR">2000</price>
+    
+    </event>
+    
+    <event id="4">
+    <name>DJ Snake</name>
+    <location>Radisson Blu, Poste Lafayette, Resort </location>
+    <date>2024-10-05</date>
+    <time>15:00:00</time>
+    <cardImage>images/djsnake.jpg</cardImage>
+    <backgroundImage>djsnakeposter.jpg</backgroundImage>
+    <description>Join us under the starlit sky of Mauritius as DJ Snake takes the stage, weaving beats that echo the rhythm of the island. Feel the pulse of the night as his music transcends boundaries, uniting us in a dance of energy and excitement. Let's create unforgettable memories together, where music meets paradise, and every beat tells a story of unity, joy, and celebration. Don't miss the electrifying experience of DJ Snake live in Mauritius</description>
+    <price currency="MUR">1500</price>
+    
+    </event>
+    
+    <event id="5">
+    <name>Jubin Nautiyal</name>
+    <location>Athletics Field, Cote DÓr</location>
+    <date>2024-09-30</date>
+    <time>18:00:00</time>
+    <cardImage>images/jubin.jpg</cardImage>
+    <backgroundImage>jubin.jpg</backgroundImage>
+    <description>Experience the magic of Bollywood melodies with Jubin Nautiyal live in Mauritius! Let his soulful voice serenade you amidst the tropical breeze and swaying palms. 
+                    From chart-topping hits to heart-touching ballads, immerse yourself in a night of musical enchantment. Join us for an evening filled with nostalgia, romance, and 
+                    the timeless melodies that have captured hearts across the globe. Get ready to sing along and create cherished memories with Jubin Nautiyal in paradise</description>
+    <price currency="MUR">1200</price>
+    
+    </event>
+    
+    <event id="6">
+    <name>La Isla Festival</name>
+    <location>Chateau de Labourdonnais, Mapou</location>
+    <date>2024-10-05</date>
+    <time>14:00:00</time>
+    <cardImage>images/laIsla.jpg</cardImage>
+    <backgroundImage>laIslaposter.jpg</backgroundImage>
+    <description>Established in 2017, LA ISLA 2068 has swiftly become the premier festival for showcasing emerging talent from the region. This boundary-breaking, family-friendly event, conceived by La Isla Social Club, aims to unite enthusiasts around artists at the forefront of contemporary culture. Set amidst the enchanting backdrop of Château de Labourdonnais, it offers a modern and cutting-edge experience in a magical setting.</description>
+    <price currency="MUR">1000</price>
+    
+    </event>
+  </concerts>
+    
+  <theatreShows>
+    <event id="1">
+    <name>The Magic Flute</name>
+    <genre>Opera, Family, Entertainment, Fantasy Show</genre>
+    <location>Caudan Arts Centre, Port Louis</location>
+    <duration>2h 4min</duration>
+    <date>2024-09-30</date>
+    <time>17:00:00</time>
+    <cardImage>images/theatreShow3.jpg</cardImage>
+    <backgroundImage>Mozartposter.jpg</backgroundImage>
+    <description>The Magic Flute by Mozart. Full of magical melodies and fantastic creatures, Mozart’s Magic Flute is the perfect opera for families. The beloved tale follows Prince Tamino and bird-catcher Papageno on an adventure to rescue Princess Pamina as they face unexpected trials and challenges on their journey. The Mauritian version of Mozart’s masterpiece is set in a fantastic underwater world. It is shortened to about 90 minutes and performed in a mix of English and French. The famous air of the Queen of the Night with its spectacular high staccato notes will not be missing, nor will the very low notes of the priest Sarastro.</description>
+    <price currency="MUR">900</price>
+    
+    </event>
+    
+    <event id="2">
+    <name>Komiko</name>
+    <genre>Comedy, Family show</genre>
+    <location>Komiko Centre, Bagatelle</location>
+    <duration>3h 15min</duration>
+    <date>2024-09-01</date>
+    <time>20:00:00</time>
+    <cardImage>images/Show1.jpg</cardImage>
+    <backgroundImage>Show1.jpg</backgroundImage>
+    <description>Prepare to laugh your heart out and celebrate the joy of new beginnings as Komiko, the comedic genius, takes the stage for a sensational and uproarious Divorce Party Show like no other! Join us for an evening of side-splitting humor, witty anecdotes, and a whole lot of laughter that will leave you rolling in the aisles..</description>
+    <price currency="MUR">300</price>
+   
+    </event>
+    
+    <event id="3">
+    <name>Circus Cabaret</name>
+    <genre>Circus, Aerial Dance, Aerial Acrobatics, Comedy, Family Show</genre>
+    <location>Caudan Arts Centre, Port-Louis</location>
+    <duration>2h 50min</duration>
+    <date>2024-10-18</date>
+    <time>20:30:00</time>
+    <cardImage>images/cabaret.jpg</cardImage>
+    <backgroundImage>cabaret.jpg</backgroundImage>
+    <description>The circus cabaret. With a mix of aerial breathtaking acrobatics and comedy acts, this show is a circus cabaret theme where performers will be showcasing their acts, hosted by a show master. With the participation of Gitish Gunga, Jeremie Azmoth, Sharon Nabab, and the students of the Amelia Stars Gymnastic School.</description>
+    <price currency="MUR">700</price>
+    
+    </event>
+  </theatreShows>
+</events>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="styles.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><!--external css fontawesome-->
+		<link rel="icon" href="logo/icon2.png"><!--logo for title-->
+		<title>contact us</title>
+		<script src="script.js"></script>
+	</head>
+	
+	<body>
+		
+		<header id="sticky-header">
+			<div class="main-nav">
+				<a href="index.php" class="logo" target="_blank">MoEvent.</a>
+				<!-- Menu -->
+				<ul class="nav">
+					<li><a href="index.php">Home<span></span></a></li>
+					<li><a href="#about-us">About<span></span></a></li>
+					<li><a href="contact.html">contact<span></span></a></li>
+					<li><a href="checkout.php">Checkout<span></span></a></li>
+					<li><a href="myprofile.php"><i class="fas fa-user"></i></a></li>
+				</ul>
+			</div>
+		</header>
+		
+		<!--contact form with compulsory inputs-->
+		<div class="contact_main">
+			<h1 class="form-header" >contact us<h1>
+			<div class="contact-container">
+				<form id="contact" method="post" action="process_form.php" onsubmit="return validateForm()">
+					<fieldset>
+						<label for="contact-name">NAME</label>
+						<input type="text" id="contact-name" name="contact-name" placeholder="john smith" class="form-content" required><br>
+						<span id="name-validation-message" class="validation-message"></span>
+						
+						<label for="phone-number">PHONE</label> 
+						<input type="tel" id="phone-number" name="phone-number" placeholder="59999999" class="form-content" required><br>
+						<span id="phone-validation-message" class="validation-message"></span>
+						
+						<label for="contact-email">EMAIL</label>
+						<input type="email" id="contact-email" name="contact-email" placeholder="johnsmith@gmail.com" class="form-content" required><br>
+						
+						<label for="message">MESSAGE</label>
+						<textarea name="message" class="form-content textarea-field" placeholder="Tell us your thoughts" required></textarea><br>
+						
+						<button class="contact-btn" type="submit">Send Message</button>
+					</fieldset>
+				</form>
+			</div>
+		</div>
+		
+		<footer>
+		<!--social medias icons link /opens in another webpage-->
+		<!--icons from external source fontawesome-->
+		<div class="footer-content-1">
+			<h5>USEFUL LINKS</h5>
+			<a href="about.html">About us</a>
+			<a href="blog.html">Blog</a>
+			<a href="contact.html">Contact</a>
+		</div>
+		<div class="footer-content-2">
+			<h5>NEWSLETTER</h5>
+			<form name="subscribe_frm" action="#Register" method="POST">
+				<input type="email" placeholder="Your Email Address" required>
+				<br>
+				<button type="submit">SUBSCRIBE NOW</button>
+			</form>
+		</div>
+		<div class="footer-content-3">
+			<h5>CONTACT INFORMATION</h5>
+			<p class="copyright">&copy; 2023 Mo Event. All rights reserved.</p><br>
+			<p>2nd Floor, Icon Tower, Ebene, Mauritius</p><br>
+			<p>MoEvent@gmail.com</p>
+			<br>
+			<a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram foot-icon" aria-hidden="true"></i></a>
+			<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook foot-icon" aria-hidden="true"></i></a>
+			<a href="https://www.whatsapp.com/" target="_blank"><i class="fa fa-whatsapp foot-icon" aria-hidden="true"></i></a>
+			<a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter foot-icon" aria-hidden="true"></i></a>
+			<a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube-play foot-icon" aria-hidden="true"></i></a>
+		</div>	
+		</footer>
+	</body>
+
+</html>
